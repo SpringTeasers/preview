@@ -8,6 +8,7 @@ Each teaser lives in its own subfolder, so every site gets a unique address:
 | Teaser | URL | Folder |
 |---|---|---|
 | Juanes Home Improvement, LLC | https://preview.springwebsites.com/juanes-home-improvement/ | `juanes-home-improvement/` |
+| Columbus Square Auto, Inc. | https://preview.springwebsites.com/columbus-square-auto/ | `columbus-square-auto/` |
 
 ## Why this exists
 
