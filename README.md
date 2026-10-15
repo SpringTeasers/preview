@@ -11,6 +11,7 @@ Each teaser lives in its own subfolder, so every site gets a unique address:
 | Columbus Square Auto, Inc. | https://preview.springwebsites.com/columbus-square-auto/ | `columbus-square-auto/` |
 | JD Auto Repair LLC | https://preview.springwebsites.com/jd-auto-repair/ | `jd-auto-repair/` |
 | Perfection Automotive LLC | https://preview.springwebsites.com/perfection-automotive/ | `perfection-automotive/` |
+| R-C Automotive Service | https://preview.springwebsites.com/rc-automotive-services/ | `rc-automotive-services/` |
 
 ## Why this exists
 
