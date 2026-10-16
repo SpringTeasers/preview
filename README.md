@@ -12,6 +12,7 @@ Each teaser lives in its own subfolder, so every site gets a unique address:
 | JD Auto Repair LLC | https://preview.springwebsites.com/jd-auto-repair/ | `jd-auto-repair/` |
 | Perfection Automotive LLC | https://preview.springwebsites.com/perfection-automotive/ | `perfection-automotive/` |
 | R-C Automotive Service | https://preview.springwebsites.com/rc-automotive-services/ | `rc-automotive-services/` |
+| AJP Electric | https://preview.springwebsites.com/ajp-electric/ | `ajp-electric/` |
 
 ## Why this exists
 
