@@ -14,6 +14,7 @@ Each teaser lives in its own subfolder, so every site gets a unique address:
 | R-C Automotive Service | https://preview.springwebsites.com/rc-automotive-services/ | `rc-automotive-services/` |
 | AJP Electric | https://preview.springwebsites.com/ajp-electric/ | `ajp-electric/` |
 | The Rock Church (Wallingford Church of the Nazarene) | https://preview.springwebsites.com/wallingford-nazarene-church/ | `wallingford-nazarene-church/` |
+| BEM Haiti (Bethesda Evangelical Mission) | https://preview.springwebsites.com/bemhaiti/ | `bemhaiti/` |
 
 ## Why this exists
 
