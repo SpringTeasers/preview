@@ -1,0 +1,16 @@
+Fonts in this folder are licensed under the SIL Open Font License, Version 1.1
+(https://openfontlicense.org/open-font-license-official-text/).
+
+They are self-hosted copies (latin subset, woff2) of these Google Fonts families:
+
+- Anton (400)                     https://fonts.google.com/specimen/Anton
+  Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont)
+- Barlow (400, 400 italic, 600, 800)  https://fonts.google.com/specimen/Barlow
+  Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)
+- Barlow Condensed (600, 800)     https://fonts.google.com/specimen/Barlow+Condensed
+  Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)
+- Permanent Marker (400)          https://fonts.google.com/specimen/Permanent+Marker
+  Copyright (c) 2010 by Font Diner, Inc DBA Sideshow
+
+Downloaded through the Google Fonts css2 API on 2026-10-20.
+Each family's licence text is available at its Google Fonts specimen page under "License".
