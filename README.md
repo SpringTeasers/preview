@@ -16,6 +16,7 @@ Each teaser lives in its own subfolder, so every site gets a unique address:
 | The Rock Church (Wallingford Church of the Nazarene) | https://preview.springwebsites.com/wallingford-nazarene-church/ | `wallingford-nazarene-church/` |
 | BEM Haiti (Bethesda Evangelical Mission) | https://preview.springwebsites.com/bemhaiti/ | `bemhaiti/` |
 | GASFCO (Great American Street Food Company) | https://preview.springwebsites.com/gasfco/ | `gasfco/` |
+| Frenchy’s Auto Repair (Wallingford, CT) | https://preview.springwebsites.com/frenchys-auto-repair/ | `frenchys-auto-repair/` |
 
 ## Why this exists
 
