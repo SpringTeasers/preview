@@ -17,6 +17,7 @@ Each teaser lives in its own subfolder, so every site gets a unique address:
 | BEM Haiti (Bethesda Evangelical Mission) | https://preview.springwebsites.com/bemhaiti/ | `bemhaiti/` |
 | GASFCO (Great American Street Food Company) | https://preview.springwebsites.com/gasfco/ | `gasfco/` |
 | Frenchy’s Auto Repair (Wallingford, CT) | https://preview.springwebsites.com/frenchys-auto-repair/ | `frenchys-auto-repair/` |
+| The North House (Avon, CT) | https://preview.springwebsites.com/the-north-house/ | `the-north-house/` |
 
 ## Why this exists
 
